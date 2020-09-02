@@ -13,6 +13,7 @@ Hello MedTrak Team! Thank you for taking the time to look at my new and improved
 ## Getting Started
 
 Please click [here](https://colleenobrien3.github.io/practice/) to view the deployed version.
+To play, you first type the number of players you have into the input field. Hit submit, and see the scoreboard display this number of scores. Then, hit begin game before allowing the first player to roll the dice. I have not yet developed the logic for limiting the player's turn, so the player can hit bank score whenever they choose. Once they do, their score will be added correctly to their score display and it will be the next player's turn to roll.
 
 ## Next Steps
 
@@ -21,3 +22,4 @@ I did not have time to make the game completely bug-free, so here are a few bits
 - Add logic to handle 'Farkles' to the dice rolling function
 - Add logic for ending the game when a player reaches the correct score
 - Fix a bug that messes up the scoring when more than three ones are rolled
+- Add alerts that display which player's turn it is
