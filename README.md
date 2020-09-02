@@ -12,7 +12,7 @@ Hello MedTrak Team! Thank you for taking the time to look at my new and improved
 
 ## Getting Started
 
-Click [here](https://colleenobrien3.github.io/practice/) to view the deployed version.
+Please click [here](https://colleenobrien3.github.io/practice/) to view the deployed version.
 
 ## Next Steps
 
